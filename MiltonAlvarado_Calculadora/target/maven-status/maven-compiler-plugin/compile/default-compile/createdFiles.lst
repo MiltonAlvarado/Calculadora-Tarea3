@@ -1,0 +1,4 @@
+module-info.class
+com/calc/calculadora/App.class
+com/calc/calculadora/PrimaryController.class
+com/calc/calculadora/SecondaryController.class
